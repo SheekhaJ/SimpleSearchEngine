@@ -1,7 +1,7 @@
 # TODO
 
-- [ ] read a file
+- [x] read a file
 - [x] store K/V index
-- [ ] parse the content
+- [x] parse the content
 - [ ] put the content into search engine
 - [ ] recursively find files
